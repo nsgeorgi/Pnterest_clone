@@ -1,7 +1,4 @@
 = Pinterest Style Web App
-
-My goal with this challenge is to teach myself Ruby on Rails by building a new web app (using rails) each week for 12 weeks.
-
-This week I built a Pinterest style web app, with Users, Pins, Image Uploading and all that good stuff!
+I built a Pinterest style web app, with Users, Pins, Image Uploading and all that good stuff!
 
 {View the demo application here}[http://week-4-pin-board.herokuapp.com/]
